@@ -1,0 +1,62 @@
+body{
+    background-color: #292929;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+h1{
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+.intro {
+    color: #aaaaaa;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 35px;
+}
+
+.mainphoto{
+    width: 650px;
+    max-width: 90%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.photo{
+    width: 375px;
+    max-width: 80%;
+    height: auto;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+h3{
+    font-size: 19px;
+    margin-top: 30px;
+}
+
+.description{
+    color : #bbbbbb;
+    font-size: 16px;
+    line-height: 1.7;
+    max-width: 500px;
+    margin: 15px auto 30px auto;
+}
+
+hr{
+    border: 0;
+    border-top: 1 px solid #555555;
+    margin-top: 40px;
+    width: 90%;
+}
+
+.footer{
+    color: #999999;
+    font-size: 14px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
